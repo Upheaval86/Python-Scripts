@@ -1,4 +1,4 @@
-# Version 0.1 by Ashley Watson
+# Version 0.1 by Ashley W.
 # Used to automate restarting the GNOME desktop
 
 import sys
